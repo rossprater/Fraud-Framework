@@ -2,189 +2,201 @@
   "name": "Fraud Framework",
   "type": "folder",
   "children": [
-  {
-    "name": "Corruption",
-    "type": "folder",
-    "children": [
     {
-      "name": "Conflicts of Interest",
+      "name": "Corruption",
       "type": "folder",
       "children": [
-      {
-        "name": "Purchasing Schemes",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Sales Schemes", 
-        "type": "url",
-        "url": "#"
-      }]
-    },
-    {
-      "name": "Bribery",
-      "type": "folder", 
-      "children": [
-      {
-        "name": "Invoice Kickbacks",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Bid Rigging",
-        "type": "url",
-        "url": "#"
-      }]
-    },
-    {
-      "name": "Illegal Gratuities",
-      "type": "url",
-      "url": "#"
-    },
-    {
-      "name": "Economic Extortion",
-      "type": "url", 
-      "url": "#"
-    }]
-  },
-  {
-    "name": "Asset Misappropriation", 
-    "type": "folder",
-    "children": [
-    {
-      "name": "Cash",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Theft of Cash on Hand",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Theft of Cash Receipts",
-        "type": "folder",
-        "children": [
         {
-          "name": "Skimming",
-          "type": "url",
-          "url": "#"  
+          "name": "Conflicts of Interest",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Purchasing Schemes",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Sales Schemes",
+              "type": "url",
+              "url": "#"
+            }
+          ]
         },
         {
-          "name": "Cash Larceny",
-          "type": "url",
-          "url": "#"
-        }]
-      },
-      {
-        "name": "Fraudulent Disbursements",
-        "type": "folder", 
-        "children": [
+          "name": "Bribery",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Invoice Kickbacks",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Bid Rigging",
+              "type": "url",
+              "url": "#"
+            }
+          ]
+        },
         {
-          "name": "Billing Schemes",
+          "name": "Illegal Gratuities",
           "type": "url",
           "url": "#"
         },
         {
-          "name": "Payroll Schemes", 
+          "name": "Economic Extortion",
           "type": "url",
           "url": "#"
-        },
-        {
-          "name": "Expense Reimbursement Schemes",
-          "type": "url", 
-          "url": "#"
-        },
-        {
-          "name": "Check Tampering",
-          "type": "url",
-          "url": "#"
-        },
-        {
-          "name": "Register Disbursements",
-          "type": "url",
-          "url": "#" 
-        }]
-      }]
+        }
+      ]
     },
     {
-      "name": "Inventory and All Other Assets",
+      "name": "Asset Misappropriation",
       "type": "folder",
       "children": [
-      {
-        "name": "Misuse",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Larceny",
-        "type": "url", 
-        "url": "#"
-      }]
-    }]
-  },
-  {
-    "name": "Financial Statement Fraud",
-    "type": "folder", 
-    "children": [
-    {
-      "name": "Net Worth/Net Income Overstatements",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Timing Differences",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Fictitious Revenues",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Concealed Liabilities and Expenses",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Improper Asset Valuations",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Improper Disclosures",
-        "type": "url",
-        "url": "#"
-      }]
+        {
+          "name": "Cash",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Theft of Cash on Hand",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Theft of Cash Receipts",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Skimming",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "Cash Larceny",
+                  "type": "url",
+                  "url": "#"
+                }
+              ]
+            },
+            {
+              "name": "Fraudulent Disbursements",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Billing Schemes",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "Payroll Schemes",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "Expense Reimbursement Schemes",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "Check Tampering",
+                  "type": "url",
+                  "url": "#"
+                },
+                {
+                  "name": "Register Disbursements",
+                  "type": "url",
+                  "url": "#"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Inventory and All Other Assets",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Misuse",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Larceny",
+              "type": "url",
+              "url": "#"
+            }
+          ]
+        }
+      ]
     },
     {
-      "name": "Net Worth/Net Income Understatements",
+      "name": "Financial Statement Fraud",
       "type": "folder",
       "children": [
-      {
-        "name": "Timing Differences",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Understated Revenues",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Overstated Liabilities and Expenses",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Improper Asset Valuations",
-        "type": "url",
-        "url": "#"
-      },
-      {
-        "name": "Improper Disclosures",
-        "type": "url",
-        "url": "#"
-      }]
-    }]
-  }]
+        {
+          "name": "Net Worth/Net Income Overstatements",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Timing Differences",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Fictitious Revenues",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Concealed Liabilities and Expenses",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Improper Asset Valuations",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Improper Disclosures",
+              "type": "url",
+              "url": "#"
+            }
+          ]
+        },
+        {
+          "name": "Net Worth/Net Income Understatements",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Timing Differences",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Understated Revenues",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Overstated Liabilities and Expenses",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Improper Asset Valuations",
+              "type": "url",
+              "url": "#"
+            },
+            {
+              "name": "Improper Disclosures",
+              "type": "url",
+              "url": "#"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
